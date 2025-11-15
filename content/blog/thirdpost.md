@@ -1,13 +1,13 @@
 ---
 title: Vice President/Treasurer
-description: Anna Hill (she/her)
+description: Meet Anna Hill (she/her)
 date: 2025-11-15
 ---
 # About
 Hey! I am a junior (ʻ27) at Allegheny college.
 Major(s)/Minor(s): International Studies & Economics, Political Science
 
-```
+
 
 ## Section Header
 
