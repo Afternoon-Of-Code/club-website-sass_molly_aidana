@@ -3,10 +3,10 @@ title: Co-president
 description: Meet Hemani Alaparthi (she/her)
 date: 2025-11-15
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+# About
+Hi! My name is Hemani and I am a Computer Science and Economics double major who’s passionate about creating spaces where women can thrive in business and tech. 
 
-## Section Header
+As Co-President of WiBE, I want to help build a community that supports mentorship, growth, and genuine connection. I joined the board because I care about empowering women to see their potential, build their confidence, and step into leadership with boldness.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+<img src="https://media.discordapp.net/attachments/1439338079222501668/1439346680280383821/IMG_ED15A21925E9-1.jpeg?ex=691a2f8e&is=6918de0e&hm=f2a38cb5c12bc936ee31eae6da00edad3100a03c6733c87ca8f25396dfc65217&=&format=webp&width=1472&height=1122" alt="Lauren Schuch">
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
