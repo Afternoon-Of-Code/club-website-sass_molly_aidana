@@ -3,13 +3,12 @@ const eleventyNavigation = {
 	key: "Upcoming Events",
 	order: 4
 };
-const calendarUrl = "c_66e11d43417d0a41cd0c3a36238795af34cdf47bc3bf56fcb53034b109793a60%40group.calendar.google.com";
 ---
 <iframe 
-    src="https://calendar.google.com/calendar/embed?src={{ calendarUrl }}&ctz=America%2FNew_York"
-    style="border: 0" 
-    width="100%" 
-    height="600" 
-    frameborder="0" 
+    src="https://calendar.google.com/calendar/embed?src=wibe%40allegheny.edu&ctz=America%2FNew_York"
+    style="border: 3px dashed #BCC6CC; border-radius: 8px"
+    width="100%"
+    height="600"
+    frameborder="3"
     scrolling="no">
 </iframe>
