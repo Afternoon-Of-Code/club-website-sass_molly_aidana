@@ -15,11 +15,11 @@ What this file provides:
 
 :root {
   /* Colors --- change these to adjust your student theme */
-  --student-accent: #1678d9e1;           /* primary accent */
-  --student-accent-contrast: #ffffff;  /* text color on accent backgrounds */
-  --student-muted: #6b7280;            /* muted text */
-  --student-bg: #8fd3fe;           /* additional background for student components */
-  --student-gradient: linear-gradient(135deg, #8fd3fe, #1e3a8a);
+  --student-accent: #1678d9e1 !important;           /* primary accent */
+  --student-accent-contrast: #ffffff !important;  /* text color on accent backgrounds */
+  --student-muted: #6b7280 !important;            /* muted text */
+  --student-bg: #8fd3fe !important;           /* additional background for student components */
+  --student-gradient: linear-gradient(135deg, #8fd3fe, #1e3a8a) !important;
 
   /* Typography --- prefer fonts that are web-safe or already available */
   --student-font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
