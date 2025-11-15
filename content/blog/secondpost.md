@@ -1,11 +1,11 @@
 ---
-title: Co-president
+title: Co-President
 description: Meet Hemani Alaparthi (she/her)
 date: 2025-11-15
 ---
 # About
-Hi! My name is Hemani and I am a Computer Science and Economics double major who’s passionate about creating spaces where women can thrive in business and tech. 
 
+Hi! My name is Hemani and I am a Computer Science and Economics double major who’s passionate about creating spaces where women can thrive in business and tech. 
 
 As Co-President of WiBE, I want to help build a community that supports mentorship, growth, and genuine connection. I joined the board because I care about empowering women to see their potential, build their confidence, and step into leadership with boldness.
 
