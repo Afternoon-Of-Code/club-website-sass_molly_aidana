@@ -4,6 +4,7 @@ const eleventyNavigation = {
 	order: 3
 };
 ---
-# About
-
-I am a person that writes stuff.
+# Contact
+Instagram: alleghenywibe
+Email: wibe@allegheny.edu
+LinkedIn: Women in Business and Economics
