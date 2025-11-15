@@ -39,8 +39,8 @@ What this file provides:
   display: block;
   padding: calc(var(--student-gap) * 1.25);
   margin: 0 0 var(--student-gap) 0;
-  background: var(--student-gradient);
-  color: var(--student-accent-contrast);
+  background: var(--student-gradient) !important;
+  color: var(--student-accent-contrast) !important;
   border-radius: var(--student-radius);
   font-family: var(--student-font-family);
 }
@@ -48,10 +48,10 @@ What this file provides:
 /* Card — contained content block */
 .student-card {
   background: var(--student-bg);
-  border: 1px solid var(--student-accent);
+  border: 1px solid var(--student-accent) !important;
   padding: calc(var(--student-gap) * 1.25);
   border-radius: var(--student-radius);
-  box-shadow: 0 1px 2px var(--student-muted);
+  box-shadow: 0 1px 2px var(--student-muted) !important;
   margin: 0 0 var(--student-gap) 0;
   font-family: var(--student-font-family);
 }
