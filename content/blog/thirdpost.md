@@ -1,5 +1,5 @@
 ---
-title: Vice President
+title: Vice President/Treasurer
 description: Anna Hill (she/her)
 date: 2025-11-15
 ---
