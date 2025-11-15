@@ -1,10 +1,10 @@
 export default {
-	title: "Eleventy Base Blog v9",
+	title: "Women in Business & Economics (WIBE)",
 	url: "https://example.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "This is a website for Women in Business & Economics at Allegheny College.",
 	author: {
-		name: "Your Name Here",
+		name: "Molly Suppo and Aidana Kuat Adilbekyzy",
 		email: "youremailaddress@example.com",
 		url: "https://example.com/about-me/"
 	}
