@@ -15,4 +15,5 @@ Email: wibe@allegheny.edu
 
 LinkedIn: Women in Business and Economics
 
-<img src="https://example.com/path-to-your-image.jpg" alt="Club logo" width="200">
+<img src="https://www.instagram.com/alleghenywibe/" alt="Club logo" width="200">
+
