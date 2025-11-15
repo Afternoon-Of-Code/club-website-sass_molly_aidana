@@ -10,30 +10,27 @@ const eleventyNavigation = {
 File: content/index.njk
 Purpose: Homepage content — lists the most recent posts and includes the posts list partial.
 Student notes: Edit this file to change the homepage content or alter which posts are shown. For styling, use `css/student.css` and add `.student-*` classes in your content.
+Usage Notes: Microsoft Copilot was used to fix the issues I had with making the layout correct.
 -->
 {% block header %}
 Welcome to the website for Women in Business and Economics!
 {% endblock %}
 
+{% block mission %}
 <section class="mission">
-	{% block left %}
-		{% block header %}
-		Our Mission:
-		{% endblock %}
-	WIBE's mission is to spread awareness and uplift women pursuing
-	an education and career in business and economics, and advocating
-	for community involvement.
-	{% endblock %}
+  <h2>Our Mission:</h2>
+  WIBE's mission is to spread awareness and uplift women pursuing
+  an education and career in business and economics, and advocating
+  for community involvement.
 </section>
+{% endblock %}
 
+{% block what_we_do %}
 <section class="what_we_do">
-	{% block right %}
-  		{% block header %}
-		What We Do:
-		{% endblock %}
-	WIBE hosts a multitude of impactful events for all on campus,
-	including career-building workshops and speaker panels, that
-	foster professional understanding and lasting connections on
-	and off campus.
-  	{% endblock %}
+  <h2>What We Do:</h2>
+  WIBE hosts a multitude of impactful events for all on campus,
+  including career-building workshops and speaker panels, that
+  foster professional understanding and lasting connections on
+  and off campus.
 </section>
+{% endblock %}
