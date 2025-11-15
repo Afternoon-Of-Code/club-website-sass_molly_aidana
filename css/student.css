@@ -18,7 +18,7 @@ What this file provides:
   --student-accent: #1678d9e1;           /* primary accent */
   --student-accent-contrast: #ffffff;  /* text color on accent backgrounds */
   --student-muted: #6b7280;            /* muted text */
-  --student-bg: transparent;           /* additional background for student components */
+  --student-bg: #8fd3fe;           /* additional background for student components */
   --student-gradient: linear-gradient(135deg, #8fd3fe, #1e3a8a);
 
   /* Typography --- prefer fonts that are web-safe or already available */
@@ -39,7 +39,7 @@ What this file provides:
   display: block;
   padding: calc(var(--student-gap) * 1.25);
   margin: 0 0 var(--student-gap) 0;
-  background: linear-gradient(90deg, var(--student-accent), color-mix(in srgb, var(--student-accent) 60%, #000000 40%));
+  background: var(--student-gradient);
   color: var(--student-accent-contrast);
   border-radius: var(--student-radius);
   font-family: var(--student-font-family);
@@ -48,10 +48,10 @@ What this file provides:
 /* Card — contained content block */
 .student-card {
   background: var(--student-bg);
-  border: 1px solid rgba(0,0,0,0.06);
+  border: 1px solid var(--student-accent);
   padding: calc(var(--student-gap) * 1.25);
   border-radius: var(--student-radius);
-  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  box-shadow: 0 1px 2px var(--student-muted);
   margin: 0 0 var(--student-gap) 0;
   font-family: var(--student-font-family);
 }
