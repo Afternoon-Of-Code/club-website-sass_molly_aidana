@@ -4,6 +4,7 @@ description: Meet Lauren Schuch (she/her)
 date: 2025-11-15
 ---
 ## About
+
 Hey! My name is Lauren Schuch. I am a current senior ('26) at Allegheny College studying International Studies (Major) and Business (Major) with German (Minor). 
 
 What am I doing while in college?
