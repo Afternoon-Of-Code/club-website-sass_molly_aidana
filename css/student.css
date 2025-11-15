@@ -11,15 +11,17 @@ What this file provides:
 - A small set of CSS variables you can tweak safely.
 - A few namespaced utility components (banner, card, button) you can use in your content.
 - Examples showing how to apply color, spacing, and typography changes.
+
+Usage Notes: Microsoft Copilot was used to fix issues with the color definitions
 */
 
 :root {
   /* Colors --- change these to adjust your student theme */
-  --student-accent: #1678d9e1 !important;           /* primary accent */
-  --student-accent-contrast: #ffffff !important;  /* text color on accent backgrounds */
-  --student-muted: #6b7280 !important;            /* muted text */
-  --student-bg: #8fd3fe !important;           /* additional background for student components */
-  --student-gradient: linear-gradient(135deg, #8fd3fe, #1e3a8a) !important;
+  --student-accent: #1678d9e1;           /* primary accent */
+  --student-accent-contrast: #ffffff;  /* text color on accent backgrounds */
+  --student-muted: #6b7280;            /* muted text */
+  --student-bg: #8fd3fe;           /* additional background for student components */
+  --student-gradient: linear-gradient(135deg, #8fd3fe, #1e3a8a);
 
   /* Typography --- prefer fonts that are web-safe or already available */
   --student-font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -66,8 +68,8 @@ What this file provides:
 .student-btn {
   display: inline-block;
   padding: 0.45rem 0.85rem;
-  background: var(--student-accent);
-  color: var(--student-accent-contrast);
+  background: var(--student-accent) !important;
+  color: var(--student-accent-contrast) !important;
   border-radius: 999px;
   text-decoration: none;
   font-family: var(--student-font-family);
@@ -79,7 +81,7 @@ What this file provides:
 }
 
 /* Small helper utilities (namespaced) */
-.student-muted { color: var(--student-muted); }
+.student-muted { color: var(--student-muted) !important; }
 .student-center { text-align: center; }
 .student-stack > * + * { margin-top: var(--student-gap); }
 
